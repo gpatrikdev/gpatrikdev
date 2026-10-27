@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm him</h1>
-<h3>No passion slop machine operator</h3>
+<h3>No passion slop machine operator (sloperator)</h3>
 
 - 🔭 I’m currently working on **idk**
 
