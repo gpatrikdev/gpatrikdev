@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>Hi 👋, I'm him</h1>
+<h3>No passion slop machine operator</h3>
 
-<!--
-**gpatrikdev/gpatrikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **idk**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **cybersecurity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **nothing**
+
+- 🤝 I’m looking for help with **life**
+
+- 👨‍💻 All of my projects are available at [here](here)
+
+- 📝 I regularly write articles on [blog link](blog link)
+
+- 💬 Ask me about **nothing**
+
+- 📫 How to reach me **don't**
+
+- 📄 Know about my experiences [resume link](resume link)
+
+- ⚡ Fun fact **I am autistic**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
